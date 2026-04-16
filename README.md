@@ -7,7 +7,7 @@ hassle with the hotas setup i had.
 I started by adding the 5 pylon armament switches, since these where the ones i had some
 issue finding a good way to manage with the buttons i already had on my stick.
 
-![picture of the armament panel from the DCS community manual for A4 skyhawk.](https://github.com/wooflock/dcs-a4-skyhawk-armament-panel/edit/main/armament.png)
+![picture of the armament panel from the DCS community manual for A4 skyhawk.](https://github.com/wooflock/dcs-a4-skyhawk-armament-panel/armament.png)
 
 After adding the 5 armament pylon switches i did find to my satisfaction that they really worked well
 with DCS BIOS and an arduino. But as soon as i started playing multiplayer i found that as soon as i crashed
