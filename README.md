@@ -5,7 +5,7 @@ Since i mostly fly in VR, i am not concerned about how things really look when i
 HOTAS and such. But i found that the armament panel in the A4 skyhawk was a little bit of a 
 hassle with the hotas setup i had.
 I started by adding the 5 pylon armament switches, since these where the ones i had some
-issue finding a good way to manage with the buttons i already had on my stick.
+issue finding a good way to manage with the buttons i already had on my stick. (they are marked with number 2 in the picture from the DCS community Skyhawk manual)
 
 ![picture of the armament panel from the DCS community manual for A4 skyhawk.](armament.png)
 
