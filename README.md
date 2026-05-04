@@ -32,4 +32,6 @@ Much more code to get it running. But now DCS always follows the physical switch
 If the switch is ON on my plaxiglass armamanetpanel, the switch will be turned on automatically if i crash
 and respawn in a new plane.
 
+the switches numbered 5, 3, 2, and 1 in the picture above are now added in the code.
+
 
