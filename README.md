@@ -1,5 +1,6 @@
 # dcs-a4-skyhawk-armament-panel
 This is a start to create an armament panel for the A4 skyhawk in DCS.
+https://github.com/Community-A-4E/community-a4e-c
 
 Since i mostly fly in VR, i am not concerned about how things really look when it comes to
 HOTAS and such. But i found that the armament panel in the A4 skyhawk was a little bit of a 
