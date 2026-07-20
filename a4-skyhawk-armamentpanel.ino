@@ -16,16 +16,16 @@
  // but the logic will be used for more as i add it.
 const char* stations[] = {"ARM_STATION1","ARM_STATION2","ARM_STATION3","ARM_STATION4","ARM_STATION5"};
 // the pins they are connected to.
-const int pin2 = 2;
-const int pin3 = 3;
-const int pin4 = 4;
-const int pin5 = 5;
-const int pin6 = 6;
+const int pin2 = 2;  // arm station 1 switch (on off switch)
+const int pin3 = 3;  // arm station 2 switch (on off switch)
+const int pin4 = 4;  // arm station 3 switch (on off switch)
+const int pin5 = 5;  // arm station 4 switch (on off switch)
+const int pin6 = 6;  // arm station 5 switch (on off switch)
 
-const int pin7 = 7;
-const int pin8 = 8;
-const int pin9 = 9;
-const int pin10 = 10;
+const int pin7 = 7;  // bomb arm switch position 1 ( this is a 2 position switch with a null in the middle )
+const int pin8 = 8;  // bomb arm switch position 2 ( this is a 2 position switch with a null in the middle )
+const int pin9 = 9;  // gun arm switch (on off switch)
+const int pin10 = 10; // master arm switch (on off switch)
 
 const int nr_armstation_pins = 5;
 int switch_pins[nr_armstation_pins] = {pin2, pin3, pin4, pin5, pin6};
